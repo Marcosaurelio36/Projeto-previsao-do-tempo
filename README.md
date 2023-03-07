@@ -1,6 +1,6 @@
 # Projeto-previsao-do-tempo
-<h1> Nesse projeto foi criado um aplicativo de previsão do tempo onde você digita sua localidadde e obtem as condições climaticas.<h1>
-<h2>O aplicativo busca as informações no  servidor,e retorna  as informações para o site em tempo real.<h2>
+<h1> Nesse projeto foi criado um aplicativo de previsão do tempo onde você digita sua localidade e obtem as informações climaticas.<h1>
+<h2>O aplicativo busca as informações no  servidor,e retorna  para o site em tempo real.<h2>
 <h3>Nesse projeto foram utilizados as seguintes linguagens:<h3>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
